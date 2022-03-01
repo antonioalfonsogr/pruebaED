@@ -94,6 +94,9 @@ public class Dialogo1 extends JDialog {
 				JButton cancelButton = new JButton("Cancel");
 				cancelButton.setActionCommand("Cancel");
 				buttonPane.add(cancelButton);
+				
+				System.out.println("Hola Mundo");
+				
 			}
 		}
 	}
