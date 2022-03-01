@@ -96,6 +96,7 @@ public class Dialogo1 extends JDialog {
 				buttonPane.add(cancelButton);
 				
 				System.out.println("Hola Mundo");
+				System.out.println("Adios Mundo");
 				
 			}
 		}
